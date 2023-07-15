@@ -1,0 +1,4 @@
+When my Class 12 board exams concluded, my neighbor invited me to a local television channel where I had the opportunity to observe their workflow. During my visit, I noticed that three employees were manually trimming videos whenever there was a change in the news segment. Recognizing the potential for improving efficiency, I decided to develop a Python program that could automatically trim videos by detecting moments of silence.
+
+However, when I shared my program with my neighbor, he expressed concerns about the potential impact on job security for the employees involved. As a result, he advised me not to share the program with anyone else. Nevertheless, I believe that showcasing this project in my portfolio would demonstrate my problem-solving skills and technical abilities.
+

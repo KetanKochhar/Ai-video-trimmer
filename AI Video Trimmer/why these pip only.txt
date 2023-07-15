@@ -1,0 +1,4 @@
+MoviePy is a versatile library for video editing, including command-line video editing. It offers a wide range of features, including the ability to remove audio from a video. This capability is advantageous compared to using FFmpeg for converting file formats and manually analyzing files.
+
+The inclusion of the docx library in the application allows for reading and detecting sentences in bold text within a DOCX file. This approach is beneficial as it enables extracting the headline of the news, which can be used as the name for the video file in the output folder. This method provides a more structured and consistent way of naming the video files compared to a simple open file command.
+
